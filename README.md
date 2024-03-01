@@ -1,10 +1,9 @@
 # Jesslyn Wijaya - Data Analyst · Statistician
 
-![LinkedIn]([[LinkedIn_link_here](http://www.linkedin.com/in/jesslyn-wijaya08))
-
+[LinkedIn](http://www.linkedin.com/in/jesslyn-wijaya08) &nbsp;&nbsp;&nbsp;[Email](mailto:jesslynnwijaya@gmail.com) &nbsp;&nbsp;&nbsp; 0435 083 681 &nbsp;&nbsp;&nbsp;  Melbourne, Victoria 
 ## Summary
 
-- 3+ years of experience with Data Analytics, R, SQL, Business Intelligence (BI) & PowerBI, and Azure Databricks.
+- 2.5 years of experience with Data Analytics, R, SQL, Business Intelligence (BI) & PowerBI, and Azure Databricks.
 - Broad data knowledge in data analytics, reporting, governance, and quality. Experienced in utilizing data for Population Health and Health Protection.
 - Excellent communication and collaboration skills in identifying and solving business needs, critical thinking, and presentation.
 - Strong aptitude for technical tasks involving analytics, problem-solving, and programming.
